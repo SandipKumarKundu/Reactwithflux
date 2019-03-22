@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SandipKumarKundu/Reactwithflux/issues"
   },
-  "homepage": "https://github.com/SandipKumarKundu/Reactwithflux#readme"
+  "homepage": "https://github.com/SandipKumarKundu/Reactwithflux#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
 }
